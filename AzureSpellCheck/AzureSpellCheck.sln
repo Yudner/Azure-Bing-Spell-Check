@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSpellCheck.Web", "AzureSpellCheck.Web\AzureSpellCheck.Web.csproj", "{4B7E9F46-C8F4-4A52-A3FB-B4C513E7C0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSpellCheck.Infrastructure", "AzureSpellCheck.Infrastructure\AzureSpellCheck.Infrastructure.csproj", "{C09B137E-A00E-4407-951E-C2EBDB1CFC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7E9F46-C8F4-4A52-A3FB-B4C513E7C0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7E9F46-C8F4-4A52-A3FB-B4C513E7C0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7E9F46-C8F4-4A52-A3FB-B4C513E7C0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7E9F46-C8F4-4A52-A3FB-B4C513E7C0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09B137E-A00E-4407-951E-C2EBDB1CFC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09B137E-A00E-4407-951E-C2EBDB1CFC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09B137E-A00E-4407-951E-C2EBDB1CFC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09B137E-A00E-4407-951E-C2EBDB1CFC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990C245F-AC04-4B87-86BC-BC30F0900A94}
+	EndGlobalSection
+EndGlobal
